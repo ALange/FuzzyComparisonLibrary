@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Fuzzy Comparison Library</Title>
+    <Authors></Authors>
+    <Description>FuzzyComparisonLibrary is a C# library for calculating the similarity between two strings using multiple fuzzy comparison algorithms. The library supports multithreaded processing to enhance performance, making it efficient for applications requiring quick and reliable string similarity calculations.</Description>
+    <Copyright>Adam Lange</Copyright>
+    <PackageProjectUrl>https://github.com/ALange/FuzzyComparisonLibrary</PackageProjectUrl>
+    <PackageReadmeFile>FuzzyComparisonLibrary.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/ALange/FuzzyComparisonLibrary</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="\\Mac\Home\Downloads\FuzzyComparisonLibrary.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
