@@ -1,0 +1,12 @@
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/bin/Debug/net8.0/FuzzyComparisonLibrary.deps.json
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/bin/Debug/net8.0/FuzzyComparisonLibrary.dll
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/bin/Debug/net8.0/FuzzyComparisonLibrary.pdb
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/obj/Debug/net8.0/FuzzyComparisonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/obj/Debug/net8.0/FuzzyComparisonLibrary.AssemblyInfoInputs.cache
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/obj/Debug/net8.0/FuzzyComparisonLibrary.AssemblyInfo.cs
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/obj/Debug/net8.0/FuzzyComparisonLibrary.csproj.CoreCompileInputs.cache
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/obj/Debug/net8.0/FuzzyComparisonLibrary.sourcelink.json
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/obj/Debug/net8.0/FuzzyComparisonLibrary.dll
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/obj/Debug/net8.0/refint/FuzzyComparisonLibrary.dll
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/obj/Debug/net8.0/FuzzyComparisonLibrary.pdb
+/home/runner/work/FuzzyComparisonLibrary/FuzzyComparisonLibrary/obj/Debug/net8.0/ref/FuzzyComparisonLibrary.dll
